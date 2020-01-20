@@ -1,0 +1,37 @@
+\newcommand*{\supervisor}[1]{\gdef\@supervisor{#1}}
+\supervisor{教授 石黒 浩 先生}
+
+\renewcommand{\maketitle}{%}
+%行間の調整
+\renewcommand{\baselinestretch}{1}
+\begin{titlepage}
+\begin{center}
+\vspace*{1cm}
+{\LARGE 特別研究報告\\}
+\vspace{2cm}
+{\Large 題目\\}
+{\Large \@title\\}
+\vspace{2cm}
+{\Large 指導教官\\}
+{\Large \@supervisor\\}
+\vspace{2cm}
+{\Large 報告者\\}
+{\Large \@author\\}
+\vspace{2cm}
+{\large \@date\\}
+\vspace{2cm}
+{\large 大阪大学 基礎工学部 システム科学科\\知能システム学コース\\}
+\end{center}
+\end{titlepage}
+}
+%何故かここで宣言しないと怒られる
+\usepackage{amsmath,amssymb} 
+
+%ここで上下左右の余白の大きさを決めている
+\setlength{\oddsidemargin}{6mm}
+\setlength{\textwidth}{150mm}
+\setlength{\textheight}{230mm}
+\setlength{\topmargin}{-10mm}
+%行間の調整
+\renewcommand{\baselinestretch}{1.5}
+
