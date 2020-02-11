@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.1.12)  11 FEB 2020 20:06
+This is e-pTeX, Version 3.14159265-p3.8.2-190131-2.6 (utf8.sjis) (TeX Live 2019/W32TeX) (preloaded format=platex 2020.1.12)  12 FEB 2020 06:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -259,71 +259,95 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-])
+] [2])
 \tf@toc=\write4
 \openout4 = `example.toc'.
 
- [2]
+ [3]
 第 1 章
-[3
+[4
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JT1/gt/m/n' tried instead on input line 91.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 91.
- [4] [5]
+ [5] [6] [7]
 第 2 章
-[6
+[8
 
-] [7] [8]
+] [9]
 第 3 章
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 215.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 221.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 215.
-[9
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 221.
+[10
 
 ]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-81.
- (c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: images/form1.png Graphic file (type bmp)
+<images/form1.png>
+ Excluding 'comment' comment. [11] [12]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+37.
+
+(c:/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 281.
- [10]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 337.
+
 
 LaTeX Font Warning: Font shape `JT1/mc/m/sl' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 304.
+(Font)              using `JT1/mc/m/n' instead on input line 337.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/sl' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 304.
+(Font)              using `JY1/mc/m/n' instead on input line 337.
 
-[11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
-Excluding 'comment' comment.
+[13]
+
+LaTeX Warning: Reference `(' on page 14 undefined on input line 373.
+
+[14] [15] [16]
+File: images/inter1.png Graphic file (type bmp)
+<images/inter1.png>
+ [17]
+File: images/150929_banner-08s.jpg Graphic file (type bmp)
+<images/150929_banner-08s.jpg>
+
+
+LaTeX Warning: Reference `fig:chart1' on page 18 undefined on input line 525.
+
+File: images/chart1.png Graphic file (type bmp)
+<images/chart1.png>
+[18] [19] [20] [21] [22] [23] Excluding 'comment' comment.
 File: images/jikken1_manzoku.png Graphic file (type bmp)
 <images/jikken1_manzoku.png>
 File: images/jikken1_kobetu.png Graphic file (type bmp)
 <images/jikken1_kobetu.png>
- [22]
+ [24] [25]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 657.
+               Default added (so using `tbp') on input line 698.
 
-[23]
+[26]
 第 4 章
-[24
 
-] [25]
-Overfull \hbox (18.65892pt too wide) in paragraph at lines 749--763
+LaTeX Warning: Reference `fig:chart2' on page 27 undefined on input line 744.
+
+File: images/chart2.png Graphic file (type bmp)
+<images/chart2.png>
+[27
+
+] [28] [29]
+Overfull \hbox (18.65892pt too wide) in paragraph at lines 797--811
 [][][][] 
  []
 
-[26]
 File: images/IOS.png Graphic file (type bmp)
 <images/IOS.png>
+[30]
 File: images/jikken2_kobetu.png Graphic file (type bmp)
 <images/jikken2_kobetu.png>
 File: images/jikken2_shu.png Graphic file (type bmp)
@@ -333,107 +357,150 @@ File: images/jikken2_IOS.png Graphic file (type bmp)
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 807.
+               Default added (so using `tbp') on input line 855.
 
-[27] [28] [29] [30] [31] [32]
+[31] [32] [33] [34] [35]
 第 5 章
-[33
+[36
 
 ]
 
+LaTeX Warning: Citation `PMID:13318848' on page 37 undefined on input line 958.
+
+
+[37]
+File: images/RMD-1inter.png Graphic file (type bmp)
+<images/RMD-1inter.png>
+
+
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 931.
+               Default added (so using `tbp') on input line 1002.
 
-[34]
+[38] [39]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 951.
+               Default added (so using `tbp') on input line 1074.
 
-[35]
+[40]
 
-LaTeX Warning: Reference `fig:対応表' on page 36 undefined on input line 994.
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 1094.
 
-[36] [37]
+[41]
 
-LaTeX Warning: Reference `tab:進行3' on page 38 undefined on input line 1026.
+LaTeX Warning: Reference `jikken3_instill' on page 42 undefined on input line 1
+138.
 
+
+LaTeX Warning: Reference `sec:samp' on page 42 undefined on input line 1138.
+
+[42]
+
+LaTeX Warning: Reference `tab:進行3' on page 43 undefined on input line 1170.
+
+[43]
 File: images/実験手続き.png Graphic file (type bmp)
 <images/実験手続き.png>
-[38] [39] Excluding 'comment' comment. [40]
-Overfull \hbox (39.73143pt too wide) in paragraph at lines 1185--1198
+ [44] [45] Excluding 'comment' comment. [46]
+Overfull \hbox (39.73143pt too wide) in paragraph at lines 1335--1348
  [][][][] 
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment. [41]
-Overfull \hbox (18.65892pt too wide) in paragraph at lines 1271--1281
+Excluding 'comment' comment. Excluding 'comment' comment.
+
+LaTeX Warning: Citation `2009' on page 47 undefined on input line 1416.
+
+[47]
+Overfull \hbox (18.65892pt too wide) in paragraph at lines 1423--1433
  [][][][] 
  []
 
 
-Overfull \hbox (23.19514pt too wide) in paragraph at lines 1298--1307
+Overfull \hbox (23.19514pt too wide) in paragraph at lines 1450--1459
  [][][][] 
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 1316.
+               Default added (so using `tbp') on input line 1468.
 
 
-Overfull \hbox (10.36247pt too wide) in paragraph at lines 1319--1336
+Overfull \hbox (10.36247pt too wide) in paragraph at lines 1471--1488
 [][][][] 
  []
 
 
-Overfull \hbox (23.19514pt too wide) in paragraph at lines 1346--1353
+Overfull \hbox (23.19514pt too wide) in paragraph at lines 1498--1505
  [][][][] 
  []
 
-[42] [43]
+[48] [49]
 File: images/jikken3_iyoku.png Graphic file (type bmp)
 <images/jikken3_iyoku.png>
+File: images/jikken3_situ.png Graphic file (type bmp)
+<images/jikken3_situ.png>
 
 
-LaTeX Warning: Reference `jikken3_kato' on page 44 undefined on input line 1371
+LaTeX Warning: Reference `jikken3_kato' on page 50 undefined on input line 1536
 .
 
 File: images/jikken3_kato.png Graphic file (type bmp)
 <images/jikken3_kato.png>
-[44]
-File: images/jikken3_situ.png Graphic file (type bmp)
-<images/jikken3_situ.png>
+[50] [51]
 File: images/jikken3_hikaku.png Graphic file (type bmp)
 <images/jikken3_hikaku.png>
- [45]
+ [52]
 File: images/jikken3_29.png Graphic file (type bmp)
 <images/jikken3_29.png>
 File: images/jikken3_30.png Graphic file (type bmp)
 <images/jikken3_30.png>
- [46]
+File: images/matatuka.png Graphic file (type bmp)
+<images/matatuka.png>
+ [53] [54]
 File: images/jikken3_seikaku.png Graphic file (type bmp)
 <images/jikken3_seikaku.png>
- [47] [48]
+ [55] [56]
 第 6 章
-[49
+[57
+
+] [58] (./example.bbl [59
 
 ]
-No file example.bbl.
-[50
 
-] (./example.aux)
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 21.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 21.
+
+[60
+
+] [61])
+File: images/nimaime.png Graphic file (type bmp)
+<images/nimaime.png>
+File: images/sanmaime.png Graphic file (type bmp)
+<images/sanmaime.png>
+File: images/sap.png Graphic file (type bmp)
+<images/sap.png>
+ [62] [63] [64] (./example.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 2690 strings out of 492759
- 32361 string characters out of 6143228
- 106579 words of memory out of 5000000
- 7072 multiletter control sequences out of 15000+600000
- 21851 words of font info for 88 fonts, out of 8000000 for 9000
+ 2799 strings out of 492759
+ 34193 string characters out of 6143228
+ 105579 words of memory out of 5000000
+ 7166 multiletter control sequences out of 15000+600000
+ 22365 words of font info for 90 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  38i,14n,35p,828b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on example.dvi (52 pages, 147912 bytes).
+Output written on example.dvi (66 pages, 175968 bytes).
